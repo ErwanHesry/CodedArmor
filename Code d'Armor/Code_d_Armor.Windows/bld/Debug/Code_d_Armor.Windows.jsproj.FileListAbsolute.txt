@@ -1,0 +1,15 @@
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bin\Debug\AppxManifest.xml
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bin\Debug\Code_d_Armor.Windows.build.appxrecipe
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\priconfig.xml
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\layout.resfiles
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\resources.resfiles
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\pri.resfiles
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\qualifiers.txt
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\erwan\documents\visual studio 2013\Projects\Code d'Armor\Code d'Armor\Code_d_Armor.Windows\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LA-FEUILLE</Machine>
+    <WindowsUser>Erwan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3158ce21-2bec-47f6-a811-73459fe66e05</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2ABFC1C36E84AC4FDA313390AADFAE9B398D3E069957CC5469C466A302EA5BC8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3158ce21-2bec-47f6-a811-73459fe66e05_1.0.0.0_neutral__htckvr6gzrp2j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3158ce21-2bec-47f6-a811-73459fe66e05_htckvr6gzrp2j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3158ce21-2bec-47f6-a811-73459fe66e05</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Erwan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-03T17:27:49.944</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-02-02T12:11:08.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\pages\hub\hub.html">
+      <PackagePath>pages\hub\hub.html</PackagePath>
+      <Modified>2015-02-03T18:30:04.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\pages\hub\section4Page.html">
+      <PackagePath>pages\hub\section4Page.html</PackagePath>
+      <Modified>2015-02-03T17:33:12.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\pages\hub\section3Page.html">
+      <PackagePath>pages\hub\section3Page.html</PackagePath>
+      <Modified>2014-03-14T01:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\pages\section\section.html">
+      <PackagePath>pages\section\section.html</PackagePath>
+      <Modified>2014-03-14T01:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\hub\section1Page.html">
+      <PackagePath>pages\hub\section1Page.html</PackagePath>
+      <Modified>2015-02-03T17:05:12.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\hub\section2Page.html">
+      <PackagePath>pages\hub\section2Page.html</PackagePath>
+      <Modified>2015-02-03T18:54:12.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\item\item.html">
+      <PackagePath>pages\item\item.html</PackagePath>
+      <Modified>2014-03-14T01:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\images\logo-code-darmor.png">
+      <PackagePath>images\logo-code-darmor.png</PackagePath>
+      <Modified>2015-02-02T17:12:19.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\images\gray.png">
+      <PackagePath>images\gray.png</PackagePath>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-03-14T01:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\pages\hub\hub.css">
+      <PackagePath>pages\hub\hub.css</PackagePath>
+      <Modified>2015-02-03T17:35:03.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\pages\section\section.css">
+      <PackagePath>pages\section\section.css</PackagePath>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\item\item.css">
+      <PackagePath>pages\item\item.css</PackagePath>
+      <Modified>2014-06-02T16:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\pages\section\section.js">
+      <PackagePath>pages\section\section.js</PackagePath>
+      <Modified>2014-03-14T01:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-02-02T17:37:14.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2015-02-04T11:30:40.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-03-14T01:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\hub\hub.js">
+      <PackagePath>pages\hub\hub.js</PackagePath>
+      <Modified>2015-02-03T18:29:56.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\hub\section1Page.js">
+      <PackagePath>pages\hub\section1Page.js</PackagePath>
+      <Modified>2014-03-14T01:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\hub\section2Page.js">
+      <PackagePath>pages\hub\section2Page.js</PackagePath>
+      <Modified>2015-02-04T11:29:25.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\hub\section4Page.js">
+      <PackagePath>pages\hub\section4Page.js</PackagePath>
+      <Modified>2015-02-03T17:26:35.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\hub\section3Page.js">
+      <PackagePath>pages\hub\section3Page.js</PackagePath>
+      <Modified>2014-06-29T16:03:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\pages\item\item.js">
+      <PackagePath>pages\item\item.js</PackagePath>
+      <Modified>2014-03-14T01:15:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Shared\images\background.jpg">
+      <PackagePath>images\background.jpg</PackagePath>
+      <Modified>2015-02-02T17:11:57.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erwan\documents\visual studio 2013\Projects\Code d%27Armor\Code d%27Armor\Code_d_Armor.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-04T11:29:48.166</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

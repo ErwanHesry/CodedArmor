@@ -1,0 +1,2 @@
+Language=FR-FR
+Language=EN-US

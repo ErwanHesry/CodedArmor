@@ -1,0 +1,25 @@
+﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
+
+{
+    "Section1": "The association",
+	"Section1Title": " ",
+    "Section1Subtext": " ",
+    "Section1Description": "Code d'Armor's purpose is to build a community of developers over the Lannion area. We organize events around the world of software development. Passionate, Interested, Motivated, aback, you are all welcome!",
+
+    "Section2": "Next event",
+    "Section2ItemTitle": "",
+    "Section2ItemSubtitle": "",
+    "Section2Subtext": "",
+    "Section2Description": "",
+    
+    "Section3": "Previous events",
+	"Section3ItemTitle": "Previous events",
+	"Section3Description": "Find all the events we organized since the association have been created",
+
+	"Section4": "Videos",
+	"Section4ItemTitle": "Videos",
+	"Section4Description": "Find the videos of each conference",
+
+    "DescriptionText": "",
+    "SectionSubtitle": ""
+}

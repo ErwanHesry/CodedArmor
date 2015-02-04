@@ -1,0 +1,5 @@
+Theme=LIGHT
+Theme=DARK
+Scale=240
+Language=FR-FR
+Language=EN-US
